@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    background-color: #62374E;
+}
+.quadrado{
+    width: 70px;
+    height: 70px;
+    background-color: #FDC57B;
+    position: absolute;
+}
+.quadrado1{
+    top: 100px;
+    left: 100px;
+}
+.quadrado2{
+    top: 100px;
+    right: 100px;
+}
+.quadrado3{
+    bottom: 100px;
+    left: 100px;
+}
+.quadrado4{
+    bottom: 100px;
+    right: 100px;
+}
